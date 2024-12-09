@@ -18,7 +18,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Your users should be able to:
 
-- Add their email and submit the form
+- Add their email and submit the form.
 - See a success message with their email after successfully submitting the form
 - See form validation messages if:
   - The field is left empty
